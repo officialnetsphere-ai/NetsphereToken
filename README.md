@@ -17,7 +17,7 @@ NETSPH is a **Network Economy + Crypto Utility Token** built on **Polygon (PoS)*
 
 ## 📌 Tokenomics
 - **Total Supply**: 300,000,000 NETSPH (Fixed, No Minting)  
-- **Allocation**: Team 15% | Reserve 10% | Marketing 10% | Development 10% | Community 55%
+- **Allocation**: Team 15% | Reserve 10% | Marketing 10% | Development 10% | Community 55%  
 
 More details → [Tokenomics Documentation](./Docs/Tokenomics.md)
 

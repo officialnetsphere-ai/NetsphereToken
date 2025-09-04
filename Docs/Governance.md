@@ -1,11 +1,11 @@
 # 🗳 Governance – NETSPH DAO
 
-NETSPH DAO (Decentralized Autonomous Organization) Ecosystem  
+NETSPH will evolve into a DAO (Decentralized Autonomous Organization) to empower token holders in ecosystem decisions.
 
-- **Voting Power**: NETSPH and stake  
+- **Voting Power**: based on staked NETSPH  
 - **Voting Platform**: Snapshot.org (on-chain voting)  
-- **Proposal Types**:  
-  - Platform Upgrades  
-  - Treasury Allocation  
-  - Partnership Decisions  
-  - Community Incentives  
+- **Proposal Types**:
+  - Platform upgrades  
+  - Treasury allocation  
+  - Partnership decisions  
+  - Community incentives  
