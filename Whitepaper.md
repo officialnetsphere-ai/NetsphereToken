@@ -1,128 +1,126 @@
-# 📑 Netsphere Token (NETSPH) – White Paper
+# Netsphere Token (NETSPH) Whitepaper
 
----
+Last updated: June 2026
 
-## Table of Contents
-1. [Introduction](#1-introduction)
-2. [Vision & Mission](#2-vision--mission)
-3. [Tokenomics](#3-tokenomics)
-4. [Pre-Sale & Fundraising](#4-pre-sale--fundraising)
-5. [Utility & Use Cases](#5-utility--use-cases)
-6. [Roadmap](#6-roadmap)
-7. [Risk & Disclaimer](#7-risk--disclaimer)
-8. [Compliance & Trust Layer](#8-compliance--trust-layer)
+## 1. Overview
 
----
+Netsphere Token (NETSPH) is an ecosystem utility and rewards token designed for use within the Netsphere digital ecosystem.
 
-## 1. Introduction
-**Netsphere Token (NETSPH)** is a digital token designed to establish a **Network Economy + Crypto Utility** under the vision:  
-**Connect – Earn – Grow**  
+NETSPH supports platform access, ecosystem rewards, community participation, partner benefits, loyalty campaigns, and governance-related features where available.
 
-NETSPH serves as both:  
-- **Profit Token** → allowing holders to receive ecosystem returns  
-- **Utility Token** → usable for fees, exclusive privileges, and governance  
+NETSPH is not designed as a dividend, profit-sharing, fixed-income, or guaranteed-return instrument. Any rewards or benefits depend on platform rules, campaign availability, technical readiness, and applicable laws.
 
----
+## 2. Vision
 
-## 2. Vision & Mission
-**Vision:**  
-Build a digital ecosystem where everyone can create value and earn rewards through participation.  
+Netsphere aims to build a connected digital ecosystem where users, communities, partners, and builders can interact through Web3-enabled tools under the concept:
 
-**Mission:**  
-- Develop a blockchain ecosystem that is secure, transparent, and fair  
-- Lower the barrier of entry for mainstream adoption into Web3  
-- Design an incentive mechanism rewarding users with NETSPH  
+Connect - Earn - Grow
 
----
+The project focuses on long-term ecosystem utility, transparent token supply, community participation, and responsible product development.
 
-## 3. Tokenomics
-**Total Supply:** `300,000,000 NETSPH` (Fixed, No Minting)  
+## 3. Token Utility
 
-| Allocation              | %   | Tokens             | Vesting / Lock-up                        |
-|--------------------------|-----|--------------------|------------------------------------------|
-| Founder & Team          | 15% | 45,000,000 NETSPH | 24-month vesting, 12-month cliff         |
-| Reserve & Liquidity     | 10% | 30,000,000 NETSPH | Locked for 18 months                     |
-| Marketing & Partnership | 10% | 30,000,000 NETSPH | Unlock 5% / quarter                      |
-| Development & Ecosystem | 10% | 30,000,000 NETSPH | Unlock per milestone                     |
-| Community & Reward      | 55% | 165,000,000 NETSPH| Staking, Referral, Community Rewards     |
+NETSPH may be used for:
 
----
+- Platform access
+- Ecosystem rewards
+- Community incentives
+- Partner campaign participation
+- Loyalty and engagement programs
+- Governance participation where supported
+- Fee discounts or ecosystem benefits where available
+- Staking-related campaign eligibility, subject to future rules
 
-## 4. Pre-Sale & Fundraising
-**Pre-Sale Supply:** `68,000,000 NETSPH`  
+Rewards are utility-based incentives. They are not guaranteed returns, dividends, interest, or investment income.
 
-- Phase 1: 1.00 USDT / NETSPH (Hard Cap: 30M)  
-- Phase 2: 2.00 USDT / NETSPH (Hard Cap: 10M)  
-- Phase 3: 3.50 USDT / NETSPH (Hard Cap: 10M)  
-- Phase 4: 5.00 USDT / NETSPH (Hard Cap: 18M)  
+## 4. Tokenomics
 
-**Soft Cap:** 5M USDT  
-**Hard Cap:** 50M USDT  
+Total Supply: 300,000,000 NETSPH  
+Minting: No additional minting planned
 
-**Fund Allocation:**  
-- Development: 40% (Smart Contracts, Platform, Security)  
-- Marketing: 30% (Influencer campaigns, PR, Global Events)  
-- Liquidity: 20% (DEX + CEX listings)  
-- Legal & Compliance: 10% (KYC/AML, International Regulations)  
+| Allocation | % | Tokens | Purpose |
+|---|---:|---:|---|
+| Community & Rewards | 55% | 165,000,000 | Ecosystem campaigns, user rewards, staking incentives |
+| Founder & Team | 15% | 45,000,000 | Long-term team alignment |
+| Reserve & Liquidity | 10% | 30,000,000 | Liquidity planning and ecosystem reserve |
+| Marketing & Partnership | 10% | 30,000,000 | Partner programs and ecosystem growth |
+| Development & Ecosystem | 10% | 30,000,000 | Product development, infrastructure, and security |
 
----
+Token release schedules may be adjusted based on project readiness, security review, liquidity planning, and compliance requirements.
 
-## 5. Utility & Use Cases
-- **Transaction Fee Reduction** → lower transfer costs  
-- **Reward System** → staking, referral, and community incentives  
-- **Governance** → on-chain DAO voting (Snapshot)  
-- **Profit Sharing** → compliant revenue redistribution  
-- **Exclusive Access** → partner discounts and premium marketplace access  
+## 5. Ecosystem Rewards
 
----
+NETSPH rewards are designed to support real participation within the Netsphere ecosystem.
+
+Examples may include:
+
+- Community contribution rewards
+- Referral or ambassador campaigns
+- Staking-related campaign rewards
+- Partner activity incentives
+- Product usage rewards
+
+These rewards are utility-based incentives. They are not fixed income, dividends, interest, or guaranteed investment returns.
 
 ## 6. Roadmap
-**Q4 2025**  
-- Smart Contract development  
-- Security Audit (CertiK/Hacken)  
-- Pre-Sale Phase 1 launch  
 
-**Q1 2026**  
-- Pre-Sale Phase 2 & 3  
-- Community growth to 100,000 users  
+Netsphere uses a readiness-based roadmap. Each phase depends on technical readiness, security review, liquidity planning, partner confirmation, and applicable compliance requirements.
 
-**Q2 2026**  
-- Pre-Sale Phase 4 & DEX listing  
-- Launch ecosystem platform (Marketplace + Reward Hub)  
-- Target $20M TVL  
+| Phase | Focus | Current Status |
+|---|---|---|
+| Phase 1 | Foundation, smart contract review, documentation update | In progress |
+| Phase 2 | Security audit planning, ecosystem rules, reward model preparation | Planned / Pending |
+| Phase 3 | Ecosystem beta, community rewards, partner campaigns | Planned |
+| Phase 4 | Liquidity planning, DEX readiness, broader public activation | To be announced |
+| Phase 5 | Governance features, expanded partnerships, long-term ecosystem growth | To be announced |
 
-**Q3 2026**  
-- 20+ global partnerships  
-- First CEX listing (Gate.io, KuCoin)  
+No exchange listing, liquidity event, audit completion, partnership, or public launch should be considered confirmed until officially announced by Netsphere.
 
-**2027**  
-- Global expansion with multilingual platform  
-- 300,000 active wallets, 10M daily TX volume  
+## 7. Security Audit Status
 
----
+Security Audit: Planned / Pending
 
-## 7. Risk & Disclaimer
-- **Market Risk:** price volatility due to liquidity and demand  
-- **Regulatory Risk:** restrictions in certain jurisdictions  
-- **Technology Risk:** risks from smart contract bugs or hacks  
+Netsphere plans to conduct an independent third-party smart contract audit before major public ecosystem activation, liquidity deployment, or exchange-related activities.
 
-**Investor Disclaimer:**  
-NETSPH is **not a security**. Investors must do their own research before participating.  
+Until the audit is completed, users should understand that unaudited smart contracts may contain technical or security risks. Any completed audit report will be published through official Netsphere channels once available.
 
----
+## 8. Security & Transparency
 
-## 8. Compliance & Trust Layer
-- Smart Contract Audit by **CertiK / Hacken**  
-- **KYC/AML** required for Pre-Sale participation  
-- Legal framework aligned with **SEC / MiCA / MAS**  
+Netsphere intends to maintain transparency through:
 
----
+- Public smart contract information
+- Fixed total supply
+- No additional minting plan
+- Security review and audit planning
+- Clear ecosystem utility disclosure
+- Responsible roadmap updates
 
-### ✅ Contract Address  
-`0xa17C6FC7D9EcEf353CeB3132DdD619...` (Polygon PoS)  
+Any exchange listing, audit, partnership, or platform launch will only be announced after confirmation.
 
-### 🌐 Website  
-[https://netspheretoken.com](https://netspheretoken.com)  
+## 9. Compliance Notice
 
-### 🔗 Logo  
-![NETSPH Logo](https://netspheretoken.com/nc_assets/img/logos/nsp-logo.png)  
+NETSPH is intended for use within the Netsphere ecosystem and is not intended to be offered, sold, or distributed in any jurisdiction where such activity is restricted or requires approval unless the required compliance process has been completed.
+
+This document is for informational purposes only. It is not investment advice, financial advice, legal advice, or an offer to sell securities or financial products.
+
+Users should review applicable laws in their own jurisdiction before participating in any token-related activity.
+
+## 10. Risk Disclosure
+
+Participation in digital asset ecosystems involves risk, including:
+
+- Market volatility
+- Smart contract risk
+- Regulatory changes
+- Liquidity risk
+- Technology failure
+- Cybersecurity risk
+- Project execution delays
+
+Users should make independent decisions and should not rely on this document as a guarantee of future performance.
+
+## 11. Official Links
+
+Website: https://netspheretoken.com  
+GitHub: https://github.com/officialnetsphere-ai/NetsphereToken  
+Contract Address: To be confirmed / verified before public use
