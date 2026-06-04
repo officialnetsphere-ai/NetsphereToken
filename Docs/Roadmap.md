@@ -1,24 +1,19 @@
-# 🛣 Roadmap – NETSPH
+# Netsphere Token Roadmap
 
-**Q4 2025**
-- Smart Contract Development  
-- Security Audit (CertiK/Hacken)  
-- Launch Pre-Sale Phase 1  
+Netsphere uses a readiness-based roadmap. Each phase depends on technical readiness, security review, liquidity planning, partner confirmation, and applicable compliance requirements.
 
-**Q1 2026**
-- Pre-Sale Phase 2 & 3  
-- Community Growth to 100,000 users  
+| Phase | Focus | Current Status |
+|---|---|---|
+| Phase 1 | Foundation, smart contract review, documentation update | In progress |
+| Phase 2 | Security audit planning, ecosystem rules, reward model preparation | Planned / Pending |
+| Phase 3 | Ecosystem beta, community rewards, partner campaigns | Planned |
+| Phase 4 | Liquidity planning, DEX readiness, broader public activation | To be announced |
+| Phase 5 | Governance features, expanded partnerships, long-term ecosystem growth | To be announced |
 
-**Q2 2026**
-- Pre-Sale Phase 4  
-- DEX listing (Uniswap, Quickswap)  
-- Reward Hub & Marketplace launch  
-- Target: $20M TVL  
+No exchange listing, liquidity event, audit completion, partnership, or public launch should be considered confirmed until officially announced by Netsphere.
 
-**Q3 2026**
-- 20+ global partnerships  
-- First CEX listing (Gate.io / KuCoin)  
+## Security Audit Status
 
-**2027**
-- Global Expansion (multi-language)  
-- 300,000 active wallets, 10M daily TX volume  
+Security Audit: Planned / Pending
+
+Netsphere plans to conduct an independent third-party smart contract audit before major public ecosystem activation, liquidity deployment, or exchange-related activities. Any completed audit report will be published through official Netsphere channels once available.
