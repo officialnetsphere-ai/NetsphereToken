@@ -123,4 +123,7 @@ Users should make independent decisions and should not rely on this document as 
 
 Website: https://netspheretoken.com  
 GitHub: https://github.com/officialnetsphere-ai/NetsphereToken  
+Logo: https://netspheretoken.com/nc_assets/img/logos/nsp-logo.png  
 Contract Address: To be confirmed / verified before public use
+
+![NETSPH Logo](https://netspheretoken.com/nc_assets/img/logos/nsp-logo.png)

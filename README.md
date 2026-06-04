@@ -4,6 +4,8 @@ Netsphere Token (NETSPH) is an ecosystem utility and rewards token designed for 
 
 NETSPH supports platform access, ecosystem rewards, partner benefits, community incentives, loyalty campaigns, and governance-related participation where available.
 
+![NETSPH Logo](https://netspheretoken.com/nc_assets/img/logos/nsp-logo.png)
+
 ## Important Notice
 
 NETSPH is not designed as a dividend, profit-sharing, fixed-income, or guaranteed-return instrument. Rewards and benefits are subject to platform rules, campaign availability, technical readiness, and applicable laws.
@@ -18,6 +20,7 @@ NETSPH is not designed as a dividend, profit-sharing, fixed-income, or guarantee
 - Roadmap: [Docs/Roadmap.md](./Docs/Roadmap.md)
 - Utility: [Docs/Utility.md](./Docs/Utility.md)
 - Governance: [Docs/Governance.md](./Docs/Governance.md)
+- Logo: [NETSPH Logo](https://netspheretoken.com/nc_assets/img/logos/nsp-logo.png)
 
 ## Tokenomics
 
