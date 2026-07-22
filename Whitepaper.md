@@ -1,6 +1,6 @@
 # Netsphere Token (NETSPH) Whitepaper
 
-Last updated: June 2026
+Last updated: July 2026
 
 ## 1. Overview
 
@@ -74,7 +74,37 @@ Netsphere uses a readiness-based roadmap. Each phase depends on technical readin
 | Phase 4 | Liquidity planning, DEX readiness, broader public activation | To be announced |
 | Phase 5 | Governance features, expanded partnerships, long-term ecosystem growth | To be announced |
 
-No exchange listing, liquidity event, audit completion, partnership, or public launch should be considered confirmed until officially announced by Netsphere.
+### NETSPH Token Listing Roadmap
+
+To promote the sustainable growth of the Netsphere ecosystem and support the long-term stability of NETSPH, Netsphere has established a milestone-based listing strategy. Each listing phase is intended to align with the growth of the community, platform adoption, liquidity readiness, and the overall ecosystem.
+
+#### Phase 1: Decentralized Exchange (DEX) Listing
+
+If the market value of NETSPH reaches 0.10 USDT per token, Netsphere plans to enable trading on Uniswap, subject to technical readiness, liquidity planning, applicable regulations, and market conditions. This phase is intended to support transparent price discovery, improve market liquidity, and provide token holders with accessible on-chain trading.
+
+#### Phase 2: Centralized Exchange (CEX) Listing
+
+If the market value of NETSPH reaches 1.0 USDT per token, Netsphere plans to pursue listing on a centralized exchange. Any application or listing will remain subject to the exchange's eligibility requirements, review and approval processes, applicable regulations, liquidity readiness, and market conditions. This milestone is intended to enhance liquidity, expand market accessibility, broaden participation, and strengthen the global recognition of NETSPH.
+
+### Community-Driven Value Strategy
+
+Netsphere believes that the value of NETSPH should reflect the continuous growth of its ecosystem and community rather than being driven solely by speculative trading.
+
+The development and potential market value of NETSPH may be supported by fundamental factors including:
+
+- Growth of the global community
+- Expansion of platform adoption and real-world utility
+- Increased transaction volume within the ecosystem
+- Growth in token demand
+- Improvement in overall market liquidity
+
+For this reason, Netsphere has adopted a milestone-based listing strategy in which each stage of market expansion corresponds with the development of the community and ecosystem. This approach is intended to promote healthy and sustainable growth while reducing unnecessary market volatility.
+
+By aligning NETSPH with real ecosystem growth, Netsphere aims to establish a strong economic foundation, foster long-term confidence among participants, and support a stable digital asset underpinned by genuine utility and an expanding global community. These objectives are forward-looking and do not constitute a promise or guarantee of token value, price appreciation, liquidity, or market performance.
+
+**Listing Disclaimer:** Netsphere's listing plans are subject to compliance with the listing requirements and approval processes of each exchange, as well as applicable regulations, technical readiness, liquidity planning, and market conditions. Netsphere does not guarantee the timing or outcome of any listing or any future token price.
+
+No exchange listing, liquidity event, audit completion, partnership, or public launch should be considered confirmed until officially announced by Netsphere through its official channels.
 
 ## 7. Security Audit Status
 
